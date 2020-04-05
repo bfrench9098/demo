@@ -4,4 +4,4 @@ This is a simple text file for the initial commit
 
 ## Added a line to the file
 
-A new guy made some changes
+I decided to change the wole line that was conflicted
